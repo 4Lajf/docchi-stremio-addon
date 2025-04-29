@@ -38,7 +38,7 @@ If you encounter any issues or have any questions regarding the addon, feel free
 This addon is developed using the following API references:
 
 - **Stremio Addon SDK**: This SDK provides the necessary tools and functions to create addons for Stremio. You can refer to the [official Stremio Addon SDK documentation](https://github.com/Stremio/stremio-addon-sdk) for more information.
-- **Docchi.pl**: Official API available at [devi.docchi.pl](https://dev.docchi.pl/).
+- **Docchi.pl**: Official API available at [dev.docchi.pl](https://dev.docchi.pl/).
 - **Stremio-Kitsu-Anime**: Unofficial Kitsu anime catalog for Stremio. Credits to [TheBeastLT](https://github.com/TheBeastLT/stremio-kitsu-anime).
 
 Please refer to these API references for detailed information on how to interact with the respective APIs.
